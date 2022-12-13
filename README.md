@@ -18,7 +18,7 @@ For purposes of the framework, the word champion is universal.
 
 ## The need for champions
 
-Security champions are necessary because most security teams need more resources to meet security demands. The security department needs more time/energy/people to perform security for all. They have the knowledge and expertise but need scalability.
+Security champions are necessary because most security teams need more resources to meet security demands. The security department needs more time/energy/people to perform security for all. They have the knowledge and expertise but need scalability. Furtheremore, champions provide context and insight on their products and systems that the security team may not be familiar with.
 
 Each year, BSIMM asks their member companies how many developers and security team members they have. From BSIMM 12, the ratio was one security person to every one hundred and thirty-five developers. This ratio demonstrates the need for security champions. BSIMM members take security seriously enough to spend money on a consultant to analyze their stance. Non-BSIMM companies are likely at an even higher ratio. The higher percentage is why Security Champions are needed -- there need to be more security team members to do all the work.
 
