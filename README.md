@@ -6,7 +6,7 @@ The Security Champion framework exists as a measuring stick and a roadmap. As a 
 
 A security champion is a security-passionate person engaged with your security team, interested in expanding their knowledge and experience with security.
 
-The security community is a virtual team of engaged developers, architects, software managers, testers, and similar roles (product adjacent) that extends the experience and knowledge of a central security team deeply into product/development teams.
+The security champion community is a virtual team of engaged developers, architects, software managers, testers, and similar roles (product adjacent) that extends the experience and knowledge of a central security team deeply into product/development teams.
 
 ## What's in a name?
 
